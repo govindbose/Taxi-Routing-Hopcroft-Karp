@@ -4,7 +4,7 @@ Course project for CS6023: GPU Programming
 An CUDA implementation of the method mentioned [here](https://www.nature.com/articles/s41586-018-0095-1)
 Parallel algorithm for Hopcroft-Karp from [here](https://hal.inria.fr/hal-00923449/document)
 
-####Files
+#### Files
 1.	sequentialcode.cpp
 	*	Contains a serial implementation of Hopcroft-Karp for comparison
 2.	main.cu 
@@ -17,3 +17,5 @@ Parallel algorithm for Hopcroft-Karp from [here](https://hal.inria.fr/hal-009234
 	*	Base dataset used for generating data.txt
 6.	locations.csv
 	*	Location coordinates which are used in generating data.txt 
+7.	report.pdf
+	*	Report submitted for evaluation of the course project
